@@ -17,9 +17,9 @@ It is recommend to install dependencies in a virtual environment to avoid messin
   ```
 - Windows
   ```
-  python -m venv venv
-  . venv/bin/activate
-  pip install -r requirements.txt
+  py -(version, ie 3.11) -m venv .venv
+  .\.venv\Scripts\activate
+  py -m pip install -r requirements.txt
   python -m jupyter notebook
   ```
 
