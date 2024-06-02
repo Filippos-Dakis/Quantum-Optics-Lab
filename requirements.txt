@@ -1,0 +1,6 @@
+numpy
+matplotlib
+copy
+scipy
+collections
+multiprocessing
