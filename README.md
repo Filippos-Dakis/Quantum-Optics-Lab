@@ -20,6 +20,7 @@ It is recommend to install dependencies in a virtual environment to avoid messin
   py -(version, ie 3.11) -m venv .venv
   .\.venv\Scripts\activate
   py -m pip install -r requirements.txt
+  py -m pip install jupyter notebook
   python -m jupyter notebook
   ```
 
