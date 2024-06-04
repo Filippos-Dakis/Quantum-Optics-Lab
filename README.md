@@ -27,14 +27,14 @@ It is recommend to install dependencies in a virtual environment to avoid messin
   ## Information and Guidelines
   All the scripts were developed with Python 3.11.9, but they are expected to work for all 3.0+ python versions.
   
-  This file contains two classes:
+  This reciprocity contains two classes:
   - src/CoherentBasis.py
   - src/FockBasis.py
   
   which define two types of objects. The first one, CoherentBasis.py , refers to Coherent states basis of the Qunatum Harmonic Oscillator (QHO), while the second, FockBasis.py, refers to the number/Fock states 
   of the QHO.
   
-  The file also includes two jupyter notebook examples:
+  The reciprocity also includes two jupyter notebook examples:
   - CoherentBasis_Example_1.ipynb
   - FockBasis_Example_1.ipynb
   
