@@ -1,5 +1,5 @@
 # Quantum Optics Lab
-Quantum Optics Lab is a side project that I work on my free time and the goal is to incorporate as many quantum optics features as possible. 
+Quantum Optics Lab is a side project that I work on my free time. The main goal is to incorporate as many quantum optics tools and features as possible. 
 
 ## Requirements & Installation
 You can download and install the repo using the following commands. Open a terminal window in the directory you want to save the files and type:
